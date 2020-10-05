@@ -1,6 +1,8 @@
 # Minnoctlevis_NASA_Space_Apps_2020
-Repositório que irá conter o código feito da solução Faster Than Light Connection da equipe Minnoctlevis para o NASA Space Apps 2020
-## Página do projeto do time
+Repository that will contain the code made from the Faster Than Light Connection solution of the Minnoctlevis team for NASA Space Apps 2020
+## Team's project page
 https://2020.spaceappschallenge.org/challenges/connect/can-you-hear-me-now/teams/minnoctlevis/stream
 ### Ferramentas usadas para a edição da UI do site:
-Nicepage Desktop + Visual Studio Code
+Nicepage Desktop for page design
+Visual Studio Code for edit and upload code
+NASA's Eyes for Data Visualization
